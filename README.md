@@ -1,5 +1,5 @@
 
-# Metro-Hast
+# Keynesian 66%
 
 An interactive demonstration that tests second-order decision-making against basic first-order data.
 
