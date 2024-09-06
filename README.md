@@ -8,7 +8,7 @@ An interactive demonstration that tests second-order decision-making against bas
 
 Created by Alain Ledoux, this game tests one second and third-order thinking skills. Players must guess a number they believe is two-thirds of the mean of all guesses. Second-order thinking leads us to the conclusion that the mean can be no higher than 66, and third-order thinking correctly accounts for this high-level conclusion and uses it to formulate an answer closer to the true mean. Other strategies include leveraging an understanding of human psychology, such as recognizing large samples result in the mean gravitating towards 37.
 
-For a low-level explanation, see [this video from Harvard Online](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average).
+For a low-level explanation, see [Wikipedia](https://en.wikipedia.org/wiki/Guess_2/3_of_the_average).
 
 
 ## Authors
